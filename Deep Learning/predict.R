@@ -1,3 +1,4 @@
+#Abu Qader
 # Prediction
 predict.dnn <- function(model, data = X.test) {
   # new data, transfer to matrix
