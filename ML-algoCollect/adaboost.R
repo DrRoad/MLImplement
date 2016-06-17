@@ -2,7 +2,7 @@ library(caret)
 timestamp <- format(Sys.time(), "%Y_%m_%d_%H_%M")
 
 model <- "adaboost"
-
+#ch model
 #########################################################################
 
 set.seed(2)
